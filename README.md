@@ -157,3 +157,5 @@ Currently available translations:
 
 ## License
 [MIT](https://github.com/mayswind/ezbookkeeping/blob/master/LICENSE)
+
+> Hello from windows-terminal
